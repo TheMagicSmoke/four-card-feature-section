@@ -22,8 +22,13 @@ h5 {
   margin-top: 0;
   margin-bottom: 30px;
   font-weight: 200;
+  color: hsl(229, 6%, 66%);
 }
 
+p {
+  font-weight: 200;
+  color: hsl(229, 6%, 66%);
+}
 
 .header {
   width: 484px;
@@ -36,6 +41,7 @@ h5 {
 
 .title1 {
   font-weight: 200;
+  color: hsl(234, 12%, 34%);
 }
 
 
@@ -108,7 +114,7 @@ h5 {
   border-top-color: hsl(34, 97%, 64%);
   padding: 0 20px 25px;
   position: absolute;
-  top: 340px;
+  top: 282px;
   left: 509px;
 
 }
